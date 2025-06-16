@@ -392,7 +392,7 @@ function startSpeechRecognition() {
 }
 
 function keyPressed() {
-  handleFinalTranscript("말이나 못해야지");
+  handleFinalTranscript("말 이나 못해야지");
 }
 
 
